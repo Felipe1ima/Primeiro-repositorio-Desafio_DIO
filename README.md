@@ -1,4 +1,4 @@
-# Primeiro-repositorio-Desafio_DIO
+# Primeiro_Desafio_DIO
 Desafio da DIO sobre repositório no git/github 
 
 ## Links:
